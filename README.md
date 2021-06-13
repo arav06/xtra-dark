@@ -1,13 +1,13 @@
-# README
-## This is the README for your extension "xtra-dark"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# XTRA Dark
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+XTRA Dark is a clean and simple dark theme which can be used in <a href="https//code.visualstudio.com">Visual Studio Code</a>
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Setup
 
-**Enjoy!**
+1. Find the folder where VS Code is installed
+2. In that folder navigate to this folder "resources\app\extensions\theme-defaults\themes"
+3. Paste the JSON file, "XTRA Dark-color-theme.json" in this folder. The JSON file is located in the themes folder of this repo
+4. Open VS Code and click on the settings(bottom left corner) and then click on "Color Theme"
+5. Select XTRA Dark
+
+***
