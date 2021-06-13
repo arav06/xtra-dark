@@ -7,10 +7,12 @@
 ## Setup
 
 1. Find the folder where VS Code is installed
-2. In that folder navigate to this folder "resources\app\extensions\theme-defaults\themes"
-3. Copy and paste the JSON file, "XTRA Dark-color-theme.json" in this folder. The JSON file is located in the themes folder of this repo
-4. Go back to "resources\app\extensions" and add the "xtra-dark" folder here
-5. Open VS Code and click on the settings(bottom left corner) and then click on "Color Theme"
-6. Select XTRA Dark
+2. In that folder navigate to this folder "resources\app\extensions\"
+3. Clone the repo here by opening a terminal and typing bash```git clone https://github.com/arav06/xtra-dark```
+4. Now go into the new folder "xtra-dark" and go into the "themes" folder
+5. Copy the JSON file. Go back to "resources\app\extensions\" in the VS Code folder
+6. Navigate to "theme-defaults\themes" and paste this JSON file
+7. Open VS Code and click on the settings(bottom left corner) and then click on "Color Theme"
+8. Select XTRA Dark
 
 ***
