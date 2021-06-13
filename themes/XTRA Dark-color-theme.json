@@ -2,7 +2,7 @@
 	"name": "XTRA Dark",
 	"type": "dark",
 	"colors": {
-		"editor.background":"#101010",
+		"editor.background":"#0c0c0c",
 		"editorLineNumber.foreground":"#a6a6a6",
 		"titleBar.activeBackground": "#000000",
 		"titleBar.inactiveBackground": "#000000",
