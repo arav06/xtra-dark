@@ -1,0 +1,21 @@
+{
+    "name": "xtra-dark",
+    "displayName": "XTRA Dark",
+    "description": "XTRA Dark is a simple and clean dark theme for VS Code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "XTRA Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/XTRA Dark-color-theme.json"
+            }
+        ]
+    }
+}
