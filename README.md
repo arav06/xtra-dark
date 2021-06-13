@@ -2,6 +2,8 @@
 
 XTRA Dark is a clean and simple dark theme which can be used in <a href="https://code.visualstudio.com">Visual Studio Code</a>
 
+<img align="center" src="example.png" />
+
 ## Setup
 
 1. Find the folder where VS Code is installed
