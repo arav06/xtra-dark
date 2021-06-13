@@ -8,7 +8,7 @@
 
 1. Find the folder where VS Code is installed
 2. In that folder navigate to this folder "resources\app\extensions\"
-3. Clone the repo here by opening a terminal and typing bash```git clone https://github.com/arav06/xtra-dark```
+3. Clone the repo here by opening a terminal and typing ```git clone https://github.com/arav06/xtra-dark```
 4. Now go into the new folder "xtra-dark" and go into the "themes" folder
 5. Copy the JSON file. Go back to "resources\app\extensions\" in the VS Code folder
 6. Navigate to "theme-defaults\themes" and paste this JSON file
