@@ -9,3 +9,4 @@ XTRA Dark is a theme which can be used in <a href="https://code.visualstudio.com
 4. Now open VS Code and click the settings button at the bottom left corner
 5. Click on the Color Theme and select XTRA Dark
 
+****
