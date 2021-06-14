@@ -307,6 +307,7 @@
 				"foreground": "#d16969"
 			}
 		},
+		
 	{
 			"name": "Operator, Misc",
 			"scope": [
@@ -348,11 +349,11 @@
 				"foreground": "#569cd6"
 			}
 		},
+		
 		{
 			"name": "Function, Special Method",
 			"scope": [
 				"entity.name.function",
-				"meta.function-call",
 				"variable.function",
 				"support.function",
 				"keyword.other.special-method"
@@ -361,6 +362,7 @@
 				"foreground": "#c7cfa1"
 			}
 		},
+		
 		{
 			"name": "Function declarations",
 			"scope": [
