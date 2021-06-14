@@ -3,6 +3,7 @@
 	"type": "dark",
 	"colors": {
 		"editor.background":"#0c0c0c",
+		"editor.foreground": "#e7e0e0",
 		"editorLineNumber.foreground":"#a6a6a6",
 		"titleBar.activeBackground": "#000000",
 		"titleBar.inactiveBackground": "#000000",
@@ -60,12 +61,13 @@
 
 	"tokenColors": [
 		{
+			
 			"scope": [
 				"meta.embedded",
 				"source.groovy.embedded"
 			],
 			"settings": {
-				"foreground": "#D4D4D4"
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -496,9 +498,3 @@
 		"numberLiteral": "#b5cea8",
 	}
 }
-
-
-
-	
-
-
