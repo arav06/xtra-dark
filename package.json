@@ -2,7 +2,7 @@
     "name": "xtra-dark",
     "displayName": "XTRA Dark",
     "description": "Simple and clean dark theme for VS Code",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher":"aravbudhiraja",
     "repository":"https://github.com/arav06/xtra-dark",
     "icon":"icon.jpg",
