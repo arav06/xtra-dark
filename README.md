@@ -4,6 +4,6 @@
 
 <img align="center" src="preview.png" />
 
-## You can download the theme by clicking <a href="https://marketplace.visualstudio.com/items?itemName=aravbudhiraja.xtra-dark"/>here</a> or by downloading .vsix file
+## You can download the theme from the VS Code marketplace by clicking <a href="https://marketplace.visualstudio.com/items?itemName=aravbudhiraja.xtra-dark"/>here</a> or by downloading the .vsix file
 
 ***
